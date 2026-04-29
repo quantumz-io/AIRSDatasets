@@ -1,0 +1,18 @@
+{
+  "fuel_cost": 108.09,
+  "forfeit_benefit": 100.0,
+  "c_ground": 40.0,
+  "return_factor": 0.5,
+  "postpone_factor": 0.3,
+  "prob_delay_reimburse": 0.3,
+  "prob_accept": 0.5,
+  "prob_reroute": 0.4,
+  "prob_reimburse": 0.4,
+  "prob_postpone": 0.4,
+  "prob_ignore": 0.4,
+  "min_con_crew": 25,
+  "min_lead_time": 90,
+  "current_time": "2006-01-07T05:00",
+  "recovery_start": "2006-01-07T14:00",
+  "recovery_finish": "2006-01-08T04:00"
+}
