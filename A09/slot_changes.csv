@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f75fb30b49288e3a3fd2ec41db4e6085910a1436b0493c67cab7767186dc4c6e
-size 218
+airport,start,finish,capacity,type,misuse_penalty
+CDG,2006-01-07T11:00,2006-01-07T12:00,5,l
+ORY,2006-01-07T11:00,2006-01-07T12:00,3,l
+ORY,2006-01-07T12:00,2006-01-07T13:00,1,t
+ORY,2006-01-07T12:00,2006-01-07T13:00,1,l

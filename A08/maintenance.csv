@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13f2985d640eaa946ae1cc3f31f5f282cb5c3adf78c757ba3362491e460aa5ff
-size 198
+aircraft,min_start,max_finish,duration,airports
+A319#15,2006-01-07T10:00,2006-01-07T16:00,360,CDG
+A319#16,2006-01-07T12:00,2006-01-07T19:00,420,CDG
+A320#23,2006-01-07T11:00,2006-01-07T14:00,180,MRS

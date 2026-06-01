@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99723d470299ef70a9e81a727f81fe8ee76a756950a03c16d7ca628b0fbd2150
-size 54
+max_flight_time,min_cp,min_fo
+480,1,1
+720,1,2
+900,2,2

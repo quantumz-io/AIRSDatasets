@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3bf5ffe2b06d5d9e6791ba8ddb478b305b10994af504de154fc08fa03cff44d
-size 173
+family,role,max_pax,min_crew
+Airbus,CS,100,1
+Airbus,ST,100,3
+BAE,CSD,100,1
+BAE,ST,100,2
+CRJ,CS,100,1
+CRJ,ST,100,2
+ERJ,CSD,100,1
+ERJ,ST,100,2
+Fokker,CS,100,1
+Fokker,ST,100,3

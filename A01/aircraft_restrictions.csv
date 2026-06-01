@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63fd242b80ac51c4ea4ff105df2e01240fe2565770ae8c5163d5bb33e4b8351c
-size 297
+airport,disallowed_model
+CFE,A319
+LIL,A321
+NTE,A321
+BIA,BAE200
+LGW,BAE200
+UIP,BAE200
+CFE,BAE300
+ETZ,BAE300
+LEH,BAE300
+AJA,CRJ100
+ETZ,CRJ100
+CFE,CRJ700
+MRS,CRJ700
+LRT,ERJ135
+LGW,ERJ145
+RDZ,ERJ145
+FSC,F100
+LEH,F100
+AVN,TranspCom
+ETZ,TranspCom
+LEH,TranspCom
+LRT,TranspCom
+LYS,TranspCom
+RNS,TranspCom
